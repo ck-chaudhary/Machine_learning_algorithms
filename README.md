@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages :-ck-chaudhary
 
-You can use the [editor on GitHub](https://github.com/ck-chaudhary/Machine_learning_algorithms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here, The basic and general algorithms of machine learning is uploaded...
+Each folder of this repository contains the code corresponding to the mentioned folder name which have fully implemented and tested on the matlab software.
+Most of the variable's work is incorporated in the variable name itself to make it easier.
+I have also uploaded the corresponding dataset for each of the algorithm implemented.You can variate the dataset looking at the dataset attached which contains 4 features with 3 classes of the Irish Dataset.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
