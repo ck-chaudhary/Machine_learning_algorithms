@@ -5,6 +5,41 @@ Each folder of this repository contains the code corresponding to the mentioned 
 Most of the variable's work is incorporated in the variable name itself to make it easier.
 I have also uploaded the corresponding dataset for each of the algorithm implemented.You can variate the dataset looking at the dataset attached which contains 4 features with 3 classes of the Irish Dataset.
 
+Hey, if you find any problems running my code , you can get it clarified by writing it in the issue section mention the algorithm and line number if possible...I will always try to help you out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
